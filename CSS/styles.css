@@ -1,0 +1,84 @@
+p {
+    margin: 0 auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+    font-weight: bold;
+}
+
+.heading {
+    font-size: 6.25rem;
+    margin: 0px;
+    color: red;
+    font-weight: bold;
+}
+
+.container {
+    width: 37.5rem;
+    height: 56.25rem;
+    text-align: center;
+    margin: 0px auto 0 auto;
+    background: linear-gradient(orange, yellow);
+}
+
+.Header {
+    background-color: bisque;
+    border-style: solid none solid none;
+    border-width: 1.25rem;
+    border-color: darkorange;
+    line-height: 1;
+    height:200px;
+}
+
+.logo {
+    float: left;
+    width: 12.5rem;
+}
+
+.hex {
+    width: 11.25rem;
+    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+}
+
+.image1 {
+    margin:6.25rem 0 0 0;
+    width: 12.5rem;
+    height:12.5rem;
+    position:relative;
+}
+
+.image2 {
+    width: 12.5rem;
+    height:12.5rem;
+    position:relative;
+    bottom:12.5rem;
+    left:12.5rem;
+}
+.image3 {
+    width: 12.5rem;
+    height:12.5rem;
+    position:relative;
+    bottom:25rem;
+    left:25rem;
+}
+
+.image4 {
+    margin:0px;
+    width: 12.5rem;
+    height:12.5rem;
+    position:relative;
+    bottom:28.125rem;
+    left:6.25rem;
+}
+
+.image5 {
+    width: 12.5rem;
+    height:12.5rem;
+    position:relative;
+    bottom: 40.625rem;
+    left:18.75rem;
+}
+.footer-note{
+    position:relative;
+    bottom:37.5rem;
+    color:darkblue; 
+}
